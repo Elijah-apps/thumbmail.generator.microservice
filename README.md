@@ -1,0 +1,1 @@
+# thumbmail.generator.microservice
